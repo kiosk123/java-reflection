@@ -1,6 +1,6 @@
 package main;
 
-import java.lang.reflect.*;
+import java.lang.reflect.Field;
 
 public class ObjectSizeCalculator {
     private static final long HEADER_SIZE = 12;
